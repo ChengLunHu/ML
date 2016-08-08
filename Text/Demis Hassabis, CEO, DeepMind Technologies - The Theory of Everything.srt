@@ -1,0 +1,2132 @@
+1
+00:00:08,270 --> 00:00:10,149
+  At DeepMind, we basically
+
+2
+00:00:10,150 --> 00:00:11,840
+work on artificial intelligence
+
+3
+00:00:12,120 --> 00:00:14,430
+and AI is the science
+
+4
+00:00:14,460 --> 00:00:15,870
+of making machines smart
+
+5
+00:00:16,300 --> 00:00:17,630
+I believe that this is going to end
+
+6
+00:00:17,630 --> 00:00:19,460
+up becoming one of the most important
+
+7
+00:00:19,460 --> 00:00:20,940
+technologies that humanity
+
+8
+00:00:20,940 --> 00:00:23,30
+will ever invent, but before I
+
+9
+00:00:23,30 --> 00:00:24,680
+get into that, because this session
+
+10
+00:00:24,720 --> 00:00:26,209
+is called The Theory of Everything
+
+11
+00:00:26,930 --> 00:00:28,210
+I thought I would start with a little bit
+
+12
+00:00:28,210 --> 00:00:29,470
+of an explanation
+
+13
+00:00:29,470 --> 00:00:30,849
+of my personal journey to
+
+14
+00:00:30,850 --> 00:00:32,570
+how I got to this point, and
+
+15
+00:00:32,630 --> 00:00:34,290
+why I've decided to, you
+
+16
+00:00:34,290 --> 00:00:36,269
+know, dedicate my life and career
+
+17
+00:00:36,270 --> 00:00:37,420
+to work on this problem.
+
+18
+00:00:38,550 --> 00:00:40,620
+  So from a young age at school, I
+
+19
+00:00:40,620 --> 00:00:42,140
+kind of, came to this realisation
+
+20
+00:00:42,310 --> 00:00:44,30
+that in some fundamental
+
+21
+00:00:44,30 --> 00:00:45,530
+sense there are only two subjects
+
+22
+00:00:45,530 --> 00:00:47,550
+really worth studying, physics
+
+23
+00:00:47,820 --> 00:00:48,820
+and neuroscience.
+
+24
+00:00:49,980 --> 00:00:51,910
+  For physics, of course, it's
+
+25
+00:00:51,910 --> 00:00:54,349
+all about explaining the external
+
+26
+00:00:54,350 --> 00:00:56,930
+world, so the external
+
+27
+00:00:56,930 --> 00:00:59,000
+world out there, including, of course
+
+28
+00:00:59,270 --> 00:01:01,250
+the entire universe, and
+
+29
+00:01:01,250 --> 00:01:02,680
+neuroscience and psychology
+
+30
+00:01:02,930 --> 00:01:04,730
+is really about conversely
+
+31
+00:01:04,940 --> 00:01:06,660
+explaining about what's inside
+
+32
+00:01:06,660 --> 00:01:08,259
+here, our internal world
+
+33
+00:01:09,310 --> 00:01:10,920
+  Then when I thought about this more
+
+34
+00:01:11,130 --> 00:01:12,580
+I actually came to the conclusion
+
+35
+00:01:12,790 --> 00:01:14,270
+that the mind was more important
+
+36
+00:01:14,590 --> 00:01:15,930
+because obviously that's the
+
+37
+00:01:15,930 --> 00:01:17,710
+way we actually interpret the external
+
+38
+00:01:17,710 --> 00:01:20,710
+world out there, and in fact, you know
+
+39
+00:01:20,740 --> 00:01:22,140
+'the mind interprets the world'
+
+40
+00:01:22,320 --> 00:01:23,70
+is something that was an idea that was
+
+41
+00:01:23,700 --> 00:01:25,70
+first proposed by the great philosopher
+
+42
+00:01:25,70 --> 00:01:26,729
+Immanuel Kant, and
+
+43
+00:01:27,430 --> 00:01:29,280
+  really, it's the mind that creates
+
+44
+00:01:29,440 --> 00:01:30,920
+our reality around us
+
+45
+00:01:33,570 --> 00:01:35,440
+  So this is where AI comes
+
+46
+00:01:35,440 --> 00:01:36,310
+in, because
+
+47
+00:01:37,110 --> 00:01:38,950
+  the ultimate expression of understanding
+
+48
+00:01:38,950 --> 00:01:40,490
+something is being able to
+
+49
+00:01:40,520 --> 00:01:42,240
+recreate it, and as
+
+50
+00:01:42,240 --> 00:01:43,89
+Richard Feynman said, one of my scientific
+
+51
+00:01:43,900 --> 00:01:45,550
+heroes, 'What I cannot
+
+52
+00:01:45,550 --> 00:01:47,509
+build, I do not truly understand,'
+
+53
+00:01:48,240 --> 00:01:49,619
+and that's one of the things that
+
+54
+00:01:49,620 --> 00:01:51,000
+I'm excited about with artificial
+
+55
+00:01:51,000 --> 00:01:52,430
+intelligence. I think, ultimately
+
+56
+00:01:52,430 --> 00:01:53,840
+it will help us understand our own
+
+57
+00:01:53,840 --> 00:01:54,510
+minds better.
+
+58
+00:01:57,350 --> 00:01:59,39
+  So my personal journey, as Darsheni
+
+59
+00:01:59,120 --> 00:02:00,990
+mentioned, started with games
+
+60
+00:02:01,310 --> 00:02:03,190
+and that's how I got into
+
+61
+00:02:03,220 --> 00:02:05,80
+AI. I started off playing chess
+
+62
+00:02:05,940 --> 00:02:07,390
+I was taught how to play chess when I
+
+63
+00:02:07,390 --> 00:02:09,550
+was four, ended up playing various
+
+64
+00:02:09,580 --> 00:02:10,950
+England chess teams, and captaining
+
+65
+00:02:10,949 --> 00:02:12,549
+various England junior chess teams
+
+66
+00:02:12,860 --> 00:02:14,590
+and by age of twelve I was a chess
+
+67
+00:02:14,590 --> 00:02:16,820
+master. The thing is, when you
+
+68
+00:02:16,820 --> 00:02:18,380
+teach a kid from a very
+
+69
+00:02:18,380 --> 00:02:19,820
+young age how to play chess
+
+70
+00:02:20,80 --> 00:02:21,980
+and if they have quite a reflective
+
+71
+00:02:22,120 --> 00:02:23,660
+personality like I had when I
+
+72
+00:02:23,660 --> 00:02:25,680
+was young, you can't help but
+
+73
+00:02:25,680 --> 00:02:27,120
+thinking and introspecting
+
+74
+00:02:27,120 --> 00:02:28,790
+about what it is about your mind
+
+75
+00:02:28,870 --> 00:02:30,420
+that is actually coming up with
+
+76
+00:02:30,420 --> 00:02:32,19
+these moves. What are the mechanisms
+
+77
+00:02:32,200 --> 00:02:33,880
+that allow you to make these
+
+78
+00:02:33,880 --> 00:02:35,350
+plans in such a complex game
+
+79
+00:02:35,350 --> 00:02:35,859
+as chess?
+
+80
+00:02:37,550 --> 00:02:39,180
+  So then when I was around eight years
+
+81
+00:02:39,180 --> 00:02:40,820
+old, I actually took some
+
+82
+00:02:40,880 --> 00:02:42,570
+winnings that I won from an international
+
+83
+00:02:42,570 --> 00:02:44,120
+chess tournament, and I bought my
+
+84
+00:02:44,120 --> 00:02:46,410
+first computer, a ZX Spectrum
+
+85
+00:02:46,410 --> 00:02:48,510
+48k, and I taught myself
+
+86
+00:02:48,510 --> 00:02:49,30
+how to programme.
+
+87
+00:02:50,150 --> 00:02:51,980
+  One of the first, sort of, big
+
+88
+00:02:51,980 --> 00:02:53,570
+programmes I can remember creating
+
+89
+00:02:54,190 --> 00:02:55,810
+was actually a programme to play
+
+90
+00:02:55,810 --> 00:02:57,620
+chess, and it didn't play very well
+
+91
+00:02:58,320 --> 00:02:59,829
+but it was able to beat my little brother
+
+92
+00:02:59,830 --> 00:03:01,120
+which I was very pleased about when I
+
+93
+00:03:01,120 --> 00:03:01,580
+was small.
+
+94
+00:03:03,90 --> 00:03:04,930
+  You know, it worked, and this was the
+
+95
+00:03:04,930 --> 00:03:06,750
+beginning of the path to me
+
+96
+00:03:06,960 --> 00:03:08,330
+towards AI.
+
+97
+00:03:09,240 --> 00:03:11,230
+  Now, my love of programming, and chess
+
+98
+00:03:11,260 --> 00:03:12,940
+and games, sort of, came together
+
+99
+00:03:12,940 --> 00:03:14,220
+naturally in the form of
+
+100
+00:03:14,670 --> 00:03:17,329
+video games, and my first
+
+101
+00:03:17,330 --> 00:03:19,670
+career was in creating and designing
+
+102
+00:03:19,670 --> 00:03:22,49
+video games. I did this for ten
+
+103
+00:03:22,50 --> 00:03:24,60
+years, and I wrote several bestselling
+
+104
+00:03:24,60 --> 00:03:25,810
+games, but probably my most famous
+
+105
+00:03:25,810 --> 00:03:27,350
+game I wrote was called Theme Park
+
+106
+00:03:28,70 --> 00:03:30,470
+  which I wrote when I was seventeen. This
+
+107
+00:03:30,560 --> 00:03:31,890
+is one of the first games to
+
+108
+00:03:31,890 --> 00:03:33,40
+use artificial intelligence
+
+109
+00:03:33,430 --> 00:03:35,660
+as the main gameplay component
+
+110
+00:03:35,990 --> 00:03:38,70
+So this game came out in the
+
+111
+00:03:38,70 --> 00:03:40,390
+mid-90s, in '94, and the
+
+112
+00:03:40,390 --> 00:03:42,70
+idea of the game was that you
+
+113
+00:03:42,330 --> 00:03:43,610
+designed your own Disney World
+
+114
+00:03:43,890 --> 00:03:45,420
+and thousands of little people
+
+115
+00:03:45,420 --> 00:03:46,959
+with their own desires and
+
+116
+00:03:46,960 --> 00:03:48,770
+characteristics came into
+
+117
+00:03:48,770 --> 00:03:50,390
+that Disney World and judged
+
+118
+00:03:50,390 --> 00:03:51,820
+and decided how much fun they had
+
+119
+00:03:51,820 --> 00:03:52,880
+in your theme park.
+
+120
+00:03:53,680 --> 00:03:55,310
+  They would go and tell their friends, and they
+
+121
+00:03:55,310 --> 00:03:56,150
+would come the next day.
+
+122
+00:03:57,360 --> 00:03:59,40
+  So this game spawned
+
+123
+00:03:59,40 --> 00:04:00,519
+a whole genre of games called management
+
+124
+00:04:00,520 --> 00:04:02,20
+simulation games, and
+
+125
+00:04:02,470 --> 00:04:04,310
+really, sort of, started this
+
+126
+00:04:04,310 --> 00:04:06,270
+whole genre of
+
+127
+00:04:06,400 --> 00:04:07,910
+creative games, where instead
+
+128
+00:04:07,910 --> 00:04:09,560
+of shooting and killing things in
+
+129
+00:04:09,560 --> 00:04:11,20
+games, actually you create and
+
+130
+00:04:11,20 --> 00:04:12,750
+built stuff yourself, and the game
+
+131
+00:04:12,750 --> 00:04:14,370
+would react to how
+
+132
+00:04:14,370 --> 00:04:16,79
+you played the game, so no two
+
+133
+00:04:16,79 --> 00:04:17,890
+people ended up with the same
+
+134
+00:04:17,890 --> 00:04:19,560
+game, because the AI adapted
+
+135
+00:04:19,709 --> 00:04:20,849
+to how the player played it.
+
+136
+00:04:22,240 --> 00:04:24,770
+  In fact all my games involved
+
+137
+00:04:25,000 --> 00:04:25,760
+a lot of AI,
+
+138
+00:04:26,810 --> 00:04:28,450
+  and then the final piece of the jigsaw
+
+139
+00:04:28,480 --> 00:04:30,260
+for me was, after doing this
+
+140
+00:04:30,260 --> 00:04:31,990
+for ten years, I sold my games company
+
+141
+00:04:32,350 --> 00:04:33,960
+and I went back to university
+
+142
+00:04:33,990 --> 00:04:35,50
+to do a PhD in neuroscience
+
+143
+00:04:35,640 --> 00:04:37,680
+to study how the brain itself
+
+144
+00:04:37,860 --> 00:04:39,610
+solved some of these hard problems
+
+145
+00:04:41,570 --> 00:04:43,170
+  I chose, as my topics
+
+146
+00:04:43,540 --> 00:04:44,810
+imagination and memory
+
+147
+00:04:45,480 --> 00:04:47,220
+and an area of the brain called the hippocampus
+
+148
+00:04:47,700 --> 00:04:49,340
+which is responsible for imagination
+
+149
+00:04:49,340 --> 00:04:50,989
+and memory, because these
+
+150
+00:04:50,990 --> 00:04:52,910
+are two of the capabilities
+
+151
+00:04:52,910 --> 00:04:54,420
+that we don't know how to do very
+
+152
+00:04:54,420 --> 00:04:56,380
+well in AI. I wanted to
+
+153
+00:04:56,380 --> 00:04:57,830
+see and get some inspiration for
+
+154
+00:04:58,60 --> 00:04:59,620
+how the brain actually solves
+
+155
+00:04:59,660 --> 00:05:00,290
+these problems.
+
+156
+00:05:01,210 --> 00:05:02,760
+  So after a couple of post-docs
+
+157
+00:05:02,760 --> 00:05:05,50
+at MIT and Harvard, I
+
+158
+00:05:05,50 --> 00:05:06,450
+then decided that I had all the
+
+159
+00:05:06,450 --> 00:05:07,840
+ingredients and the components
+
+160
+00:05:07,890 --> 00:05:10,169
+to start DeepMind, and
+
+161
+00:05:10,170 --> 00:05:11,690
+actually attack the AI
+
+162
+00:05:11,690 --> 00:05:12,340
+problem head on.
+
+163
+00:05:13,550 --> 00:05:15,140
+  So all these experiences then
+
+164
+00:05:15,380 --> 00:05:16,880
+culminated, in 2010
+
+165
+00:05:16,880 --> 00:05:18,760
+in me co-founding DeepMind
+
+166
+00:05:19,800 --> 00:05:21,470
+  and the idea behind DeepMind
+
+167
+00:05:21,470 --> 00:05:23,130
+was really to create a, kind
+
+168
+00:05:23,130 --> 00:05:25,420
+of, Apollo Programme mission
+
+169
+00:05:25,650 --> 00:05:26,280
+for AI.
+
+170
+00:05:27,40 --> 00:05:28,640
+  Now, at DeepMind, we have
+
+171
+00:05:28,870 --> 00:05:30,520
+over 100 research scientists
+
+172
+00:05:30,520 --> 00:05:33,270
+100 PhDs, top people
+
+173
+00:05:33,270 --> 00:05:34,659
+in their machine learning fields
+
+174
+00:05:35,150 --> 00:05:37,219
+and neuroscience files working
+
+175
+00:05:37,220 --> 00:05:38,530
+on solving AI.
+
+176
+00:05:39,860 --> 00:05:41,780
+  The type of AI we work on
+
+177
+00:05:41,840 --> 00:05:43,570
+is this neuroscience-inspired
+
+178
+00:05:43,570 --> 00:05:45,690
+AI, so inspired by how
+
+179
+00:05:45,690 --> 00:05:47,420
+the brain works at a very high
+
+180
+00:05:47,450 --> 00:05:48,460
+level, a systems level.
+
+181
+00:05:51,130 --> 00:05:52,790
+  So one way we articulate our
+
+182
+00:05:52,790 --> 00:05:54,310
+mission at DeepMind, it's very
+
+183
+00:05:54,360 --> 00:05:55,730
+easy to articulate actually, but obviously it's
+
+184
+00:05:55,730 --> 00:05:57,210
+hard to do, is a, kind of
+
+185
+00:05:57,210 --> 00:05:58,590
+two step process. So step
+
+186
+00:05:58,670 --> 00:06:00,20
+one, solve intelligence
+
+187
+00:06:00,380 --> 00:06:01,90
+and then step two, use it
+
+188
+00:06:01,900 --> 00:06:03,650
+to solve everything else, and
+
+189
+00:06:04,150 --> 00:06:05,570
+I'll come back to that right at the end
+
+190
+00:06:05,570 --> 00:06:07,930
+why that's not as fanciful
+
+191
+00:06:08,200 --> 00:06:08,930
+as it might seem.
+
+192
+00:06:09,960 --> 00:06:11,780
+  So more prosaically, how
+
+193
+00:06:11,780 --> 00:06:13,359
+is it that we're going to practically
+
+194
+00:06:13,360 --> 00:06:15,590
+do this? Well, we're going
+
+195
+00:06:15,590 --> 00:06:17,330
+to go about doing this by trying
+
+196
+00:06:17,330 --> 00:06:18,770
+to build the world's first general
+
+197
+00:06:18,770 --> 00:06:20,490
+purpose learning machine, and the
+
+198
+00:06:20,490 --> 00:06:21,890
+two key words here are the words
+
+199
+00:06:21,980 --> 00:06:23,660
+'general' and 'learning'. So
+
+200
+00:06:23,690 --> 00:06:25,120
+all the AI that we do
+
+201
+00:06:25,370 --> 00:06:27,830
+at DeepMind involves
+
+202
+00:06:27,980 --> 00:06:29,580
+learning algorithms. So these
+
+203
+00:06:29,580 --> 00:06:31,570
+are algorithms that learn, automatically
+
+204
+00:06:31,570 --> 00:06:32,990
+how to master tasks
+
+205
+00:06:33,420 --> 00:06:35,170
+from raw data. They're not
+
+206
+00:06:35,220 --> 00:06:36,710
+pre-programmed or handcrafted
+
+207
+00:06:36,710 --> 00:06:38,549
+in any way, so that's unlike most
+
+208
+00:06:38,590 --> 00:06:40,650
+AI out there that you've heard of
+
+209
+00:06:41,410 --> 00:06:43,140
+There's also the second part. We
+
+210
+00:06:43,440 --> 00:06:45,90
+enforce this idea of wanting
+
+211
+00:06:45,90 --> 00:06:46,609
+the system to be general, so
+
+212
+00:06:46,610 --> 00:06:48,120
+i.e. the same system or same
+
+213
+00:06:48,120 --> 00:06:49,590
+set of algorithms can actually operate
+
+214
+00:06:49,660 --> 00:06:51,310
+across a wide range of tasks
+
+215
+00:06:52,870 --> 00:06:54,680
+  Now, 'AI', of course, is a big buzzword
+
+216
+00:06:54,680 --> 00:06:56,450
+at the moment, and there have
+
+217
+00:06:56,450 --> 00:06:57,920
+been some big achievements in AI
+
+218
+00:06:57,920 --> 00:06:59,40
+that you'll of course be aware of, like
+
+219
+00:06:59,450 --> 00:07:01,000
+Deep Blue beating Garry Kasparov
+
+220
+00:07:01,10 --> 00:07:02,650
+in the '90s, and then more recently
+
+221
+00:07:02,920 --> 00:07:04,990
+IBM's Watson besting
+
+222
+00:07:04,990 --> 00:07:07,30
+the Jeopardy contestants
+
+223
+00:07:07,900 --> 00:07:09,270
+but in our opinion, that's still
+
+224
+00:07:09,330 --> 00:07:10,810
+examples of what we would call
+
+225
+00:07:10,810 --> 00:07:12,650
+narrow AI. So this is AI
+
+226
+00:07:12,740 --> 00:07:14,80
+that has been specifically
+
+227
+00:07:14,80 --> 00:07:15,890
+tailored or built to
+
+228
+00:07:15,950 --> 00:07:17,360
+tackle one problem, and one
+
+229
+00:07:17,360 --> 00:07:19,990
+problem only, and the hallmark
+
+230
+00:07:20,380 --> 00:07:21,990
+of, sort of, artificial general
+
+231
+00:07:21,990 --> 00:07:23,370
+intelligence, the type of AI we
+
+232
+00:07:23,370 --> 00:07:24,870
+work on, is that it's built to
+
+233
+00:07:24,870 --> 00:07:26,480
+be flexible, and general
+
+234
+00:07:26,500 --> 00:07:27,970
+and adaptive from the ground
+
+235
+00:07:27,970 --> 00:07:29,650
+up, so there's no special
+
+236
+00:07:29,650 --> 00:07:31,250
+casing or pre-programming
+
+237
+00:07:31,710 --> 00:07:33,70
+of the task involved. It has to
+
+238
+00:07:33,70 --> 00:07:34,730
+learn everything from first principles
+
+239
+00:07:36,740 --> 00:07:38,770
+  So we, sort of, think about the intelligence
+
+240
+00:07:38,770 --> 00:07:40,370
+problem within this framework
+
+241
+00:07:40,370 --> 00:07:41,70
+called 'reinforcement learning'
+
+242
+00:07:41,980 --> 00:07:43,250
+and it's a very simple framework to
+
+243
+00:07:43,250 --> 00:07:44,620
+describe, and I'm just going to describe it with this
+
+244
+00:07:44,690 --> 00:07:46,750
+simple diagram. So on the left-hand
+
+245
+00:07:46,750 --> 00:07:48,650
+side here you have the system
+
+246
+00:07:48,650 --> 00:07:50,580
+itself, the AI system
+
+247
+00:07:50,960 --> 00:07:52,479
+and the AI system finds itself
+
+248
+00:07:52,480 --> 00:07:53,840
+in some kind of environment
+
+249
+00:07:56,150 --> 00:07:57,70
+  that it's trying to achieve a goal
+
+250
+00:07:57,700 --> 00:07:59,539
+in, and that environment could be real
+
+251
+00:07:59,540 --> 00:08:00,540
+world or virtual.
+
+252
+00:08:01,520 --> 00:08:03,80
+  Now, the system only interacts with
+
+253
+00:08:03,80 --> 00:08:04,659
+the environment in two ways. So
+
+254
+00:08:04,660 --> 00:08:06,190
+firstly it gets observations
+
+255
+00:08:06,260 --> 00:08:07,760
+about the environment through its
+
+256
+00:08:07,760 --> 00:08:09,430
+sensory apparatus. We normally
+
+257
+00:08:09,430 --> 00:08:10,690
+use vision at DeepMind, but
+
+258
+00:08:10,690 --> 00:08:12,490
+you could use other modalities
+
+259
+00:08:12,840 --> 00:08:14,179
+and these observations are always
+
+260
+00:08:14,240 --> 00:08:15,930
+noisy and incomplete. So unlike
+
+261
+00:08:15,930 --> 00:08:17,570
+the game of chess, the real world
+
+262
+00:08:17,790 --> 00:08:19,20
+is actually very noisy
+
+263
+00:08:19,290 --> 00:08:20,910
+and messy, and you never have full
+
+264
+00:08:20,910 --> 00:08:22,250
+information about what's going on
+
+265
+00:08:23,320 --> 00:08:25,520
+  The job of the system is to build
+
+266
+00:08:25,640 --> 00:08:26,960
+the best model of the world
+
+267
+00:08:26,960 --> 00:08:28,349
+out there, statistical model
+
+268
+00:08:28,350 --> 00:08:29,780
+of the world out there based on
+
+269
+00:08:29,780 --> 00:08:31,150
+these noisy observations
+
+270
+00:08:31,470 --> 00:08:32,80
+and once it has that model of the
+
+271
+00:08:32,799 --> 00:08:34,479
+world, the second job of the system
+
+272
+00:08:34,710 --> 00:08:36,740
+is to pick the best action
+
+273
+00:08:37,110 --> 00:08:38,480
+that will get it closest towards its
+
+274
+00:08:38,480 --> 00:08:40,570
+goal from the set of actions
+
+275
+00:08:40,570 --> 00:08:42,110
+that are available to it at that moment
+
+276
+00:08:42,110 --> 00:08:44,790
+in time. Once the system has decided
+
+277
+00:08:44,790 --> 00:08:46,130
+which action that it, it outputs
+
+278
+00:08:46,130 --> 00:08:48,20
+that action, that action gets executed
+
+279
+00:08:48,280 --> 00:08:49,560
+it may or may not make some change
+
+280
+00:08:49,560 --> 00:08:50,959
+to the environment, and that drives a new
+
+281
+00:08:50,960 --> 00:08:53,230
+observation. This whole system
+
+282
+00:08:53,990 --> 00:08:55,530
+although it's very simply described
+
+283
+00:08:55,530 --> 00:08:57,620
+in this diagram, it has lots
+
+284
+00:08:57,620 --> 00:08:58,980
+and lots of hidden complexities
+
+285
+00:08:59,330 --> 00:09:00,850
+If we could solve everything behind
+
+286
+00:09:00,850 --> 00:09:02,310
+this diagram, that would be enough
+
+287
+00:09:02,330 --> 00:09:03,10
+for intelligence.
+
+288
+00:09:04,180 --> 00:09:06,10
+  We know that that's enough for intelligence
+
+289
+00:09:06,100 --> 00:09:07,80
+because this is the way that all mammals
+
+290
+00:09:07,830 --> 00:09:10,30
+including humans, learn. In humans
+
+291
+00:09:10,240 --> 00:09:11,50
+it's the dopamine system
+
+292
+00:09:11,670 --> 00:09:13,380
+in our brains that implements
+
+293
+00:09:13,380 --> 00:09:14,240
+reinforcement learning.
+
+294
+00:09:16,60 --> 00:09:17,770
+  So I'm just going to show you a few videos-
+
+295
+00:09:17,860 --> 00:09:19,290
+a couple of videos of the algorithm
+
+296
+00:09:19,290 --> 00:09:20,660
+working, but before I show you that, I just want to
+
+297
+00:09:20,660 --> 00:09:21,949
+explain clearly what it is that
+
+298
+00:09:21,950 --> 00:09:22,710
+you're going to see.
+
+299
+00:09:24,280 --> 00:09:26,640
+  So we used games as
+
+300
+00:09:26,640 --> 00:09:28,580
+a test bed for testing
+
+301
+00:09:28,580 --> 00:09:30,120
+the intelligence of our algorithms
+
+302
+00:09:30,450 --> 00:09:31,960
+and in order to have true
+
+303
+00:09:31,990 --> 00:09:33,660
+thinking machines or cognition
+
+304
+00:09:33,920 --> 00:09:35,209
+a system has to be embedded
+
+305
+00:09:35,210 --> 00:09:37,190
+in sensory motor data streams
+
+306
+00:09:37,260 --> 00:09:39,40
+sensory motor reality, and
+
+307
+00:09:39,400 --> 00:09:41,79
+it has to figure things out for itself
+
+308
+00:09:41,520 --> 00:09:43,10
+So games are actually quite a perfect
+
+309
+00:09:43,350 --> 00:09:44,850
+setting for this, and in fact
+
+310
+00:09:44,850 --> 00:09:45,340
+we used
+
+311
+00:09:46,330 --> 00:09:48,70
+  classic Atari games
+
+312
+00:09:48,70 --> 00:09:49,880
+from the '80s, which were
+
+313
+00:09:50,820 --> 00:09:52,550
+  designed to be challenging to humans
+
+314
+00:09:52,750 --> 00:09:54,150
+but are not so complex that
+
+315
+00:09:54,150 --> 00:09:55,60
+AI algorithms couldn't make progress
+
+316
+00:09:55,600 --> 00:09:55,860
+with them.
+
+317
+00:09:56,660 --> 00:09:58,380
+  So what I'm going to show you is the AI
+
+318
+00:09:58,380 --> 00:09:59,770
+playing these Atari games
+
+319
+00:10:00,350 --> 00:10:02,980
+but the only thing the system gets
+
+320
+00:10:02,980 --> 00:10:04,520
+is the raw pixels as inputs
+
+321
+00:10:04,730 --> 00:10:06,110
+so it's just like a human looking
+
+322
+00:10:06,110 --> 00:10:08,790
+at the screen, seeing all
+
+323
+00:10:08,790 --> 00:10:10,569
+the pixels on the screen. So there's about
+
+324
+00:10:10,570 --> 00:10:11,830
+30,000 numbers per
+
+325
+00:10:11,830 --> 00:10:13,890
+frame because the screen's 200
+
+326
+00:10:13,890 --> 00:10:15,350
+x 150 pixels in size
+
+327
+00:10:15,560 --> 00:10:17,310
+and the goal here is to simply maximise
+
+328
+00:10:17,310 --> 00:10:19,310
+the score. Everything is learnt from scratch
+
+329
+00:10:19,520 --> 00:10:21,770
+and we insist that the same system
+
+330
+00:10:21,770 --> 00:10:23,30
+plays all the different Atari
+
+331
+00:10:23,300 --> 00:10:24,689
+games, hundreds of different Atari
+
+332
+00:10:24,690 --> 00:10:25,10
+games.
+
+333
+00:10:26,730 --> 00:10:28,480
+  So I'm just going to run this video now
+
+334
+00:10:28,480 --> 00:10:30,20
+This is a one minute video. This is
+
+335
+00:10:30,20 --> 00:10:31,50
+Space Invaders, the most iconic
+
+336
+00:10:31,560 --> 00:10:33,589
+game, probably, on Atari
+
+337
+00:10:34,770 --> 00:10:36,920
+  This is the first time the AI has
+
+338
+00:10:36,980 --> 00:10:38,340
+ever seen this data stream, so
+
+339
+00:10:38,340 --> 00:10:39,690
+don't forget, it doesn't know what it's playing
+
+340
+00:10:39,690 --> 00:10:41,240
+it doesn't know what it's controlling, and
+
+341
+00:10:41,240 --> 00:10:42,710
+you can see it's actually losing its
+
+342
+00:10:42,710 --> 00:10:44,110
+three lives. It's controlling the rocket here
+
+343
+00:10:44,110 --> 00:10:45,760
+at the bottom of the screen, and it's losing
+
+344
+00:10:45,760 --> 00:10:47,230
+its three lives immediately, because it doesn't
+
+345
+00:10:47,230 --> 00:10:49,80
+know what it's doing. After you leave it playing
+
+346
+00:10:49,800 --> 00:10:51,270
+overnight on a single GPU
+
+347
+00:10:51,270 --> 00:10:52,689
+machine, you come back the next day
+
+348
+00:10:53,10 --> 00:10:54,319
+and now it's superhuman at the
+
+349
+00:10:54,320 --> 00:10:55,920
+game. It's learnt for itself
+
+350
+00:10:55,950 --> 00:10:57,280
+through experience, how to play
+
+351
+00:10:57,770 --> 00:10:59,180
+So you can see now every single
+
+352
+00:10:59,180 --> 00:11:00,689
+shot it fires hits something
+
+353
+00:11:01,230 --> 00:11:02,810
+It can't be killed anymore. It's
+
+354
+00:11:02,810 --> 00:11:04,439
+worked out that the pink mothership
+
+355
+00:11:04,530 --> 00:11:05,790
+that comes across the top of the screen
+
+356
+00:11:05,790 --> 00:11:07,410
+in a second is worth the most
+
+357
+00:11:07,410 --> 00:11:09,260
+number of points. It does these
+
+358
+00:11:09,260 --> 00:11:10,760
+amazingly accurate shots to do that
+
+359
+00:11:11,530 --> 00:11:13,540
+  Those of you who remember Space Invaders
+
+360
+00:11:13,590 --> 00:11:15,10
+as there are of them on the screen
+
+361
+00:11:15,280 --> 00:11:17,250
+they go faster. Just watch
+
+362
+00:11:17,250 --> 00:11:19,640
+the last shot that the rocket
+
+363
+00:11:19,640 --> 00:11:21,240
+does. This is predictive shot
+
+364
+00:11:21,570 --> 00:11:22,930
+to hit the last Space Invader
+
+365
+00:11:23,840 --> 00:11:26,250
+So you can see how perfectly
+
+366
+00:11:26,250 --> 00:11:27,160
+it, sort of, modelled
+
+367
+00:11:28,10 --> 00:11:30,40
+  the game world, and that data
+
+368
+00:11:30,40 --> 00:11:31,930
+stream. So accurately, it can
+
+369
+00:11:32,000 --> 00:11:33,350
+predict ahead of time what is going
+
+370
+00:11:33,350 --> 00:11:35,10
+to happen, just from the pixels
+
+371
+00:11:35,10 --> 00:11:36,990
+on the screen. So here's a second
+
+372
+00:11:37,70 --> 00:11:38,760
+video. It's my favourite video actually. This
+
+373
+00:11:38,760 --> 00:11:40,69
+is a game of Breakout. There are more
+
+374
+00:11:40,700 --> 00:11:42,350
+gradations here of the agent
+
+375
+00:11:42,350 --> 00:11:43,830
+getting better, the system getting better
+
+376
+00:11:44,290 --> 00:11:45,849
+So this is after 100 games
+
+377
+00:11:46,50 --> 00:11:47,579
+so just 100 games, and you can see
+
+378
+00:11:47,990 --> 00:11:49,50
+again here, the system is pretty
+
+379
+00:11:49,500 --> 00:11:51,20
+terrible, but you can
+
+380
+00:11:51,200 --> 00:11:52,70
+probably convince yourself that maybe
+
+381
+00:11:52,700 --> 00:11:53,990
+it's starting to get the hang of the fact
+
+382
+00:11:53,990 --> 00:11:55,340
+that it should move the bat towards
+
+383
+00:11:55,340 --> 00:11:55,670
+the ball.
+
+384
+00:11:56,810 --> 00:11:58,630
+  Now, this is after 300 games
+
+385
+00:11:58,840 --> 00:12:00,440
+so it's now hitting the ball
+
+386
+00:12:00,440 --> 00:12:02,130
+back pretty consistently
+
+387
+00:12:02,130 --> 00:12:03,540
+and it's almost never missing, so it's
+
+388
+00:12:03,560 --> 00:12:04,969
+about as good as the best humans
+
+389
+00:12:05,20 --> 00:12:05,939
+can be at this game.
+
+390
+00:12:06,790 --> 00:12:08,410
+  Then we thought, 'That's pretty cool. What
+
+391
+00:12:08,450 --> 00:12:09,760
+would happen if we just left
+
+392
+00:12:10,440 --> 00:12:12,10
+the machine playing the game
+
+393
+00:12:12,10 --> 00:12:13,630
+for a couple more hundred games?' This
+
+394
+00:12:13,630 --> 00:12:15,40
+amazing thing happened. What happened was
+
+395
+00:12:15,40 --> 00:12:16,349
+it discovered the optimal strategy
+
+396
+00:12:16,350 --> 00:12:18,110
+was to dig a tunnel round the left-hand
+
+397
+00:12:18,110 --> 00:12:20,20
+side here, and then send the ball
+
+398
+00:12:20,370 --> 00:12:22,160
+you know, with this unbelievable accuracy
+
+399
+00:12:22,350 --> 00:12:22,890
+round the back.
+
+400
+00:12:23,840 --> 00:12:26,70
+  So that's really cool, because actually
+
+401
+00:12:26,480 --> 00:12:28,60
+the brilliant programmers and researchers
+
+402
+00:12:28,60 --> 00:12:29,890
+who are on this programme, they're brilliant
+
+403
+00:12:29,920 --> 00:12:31,420
+at programming and coming up with algorithms
+
+404
+00:12:31,420 --> 00:12:32,969
+but they're not so good at playing Atari
+
+405
+00:12:33,810 --> 00:12:35,660
+  So they didn't actually know that strategy
+
+406
+00:12:35,660 --> 00:12:37,689
+for themselves, so this was something their
+
+407
+00:12:37,690 --> 00:12:38,940
+own creation taught them
+
+408
+00:12:39,710 --> 00:12:41,790
+  So, you know, all this work was
+
+409
+00:12:41,790 --> 00:12:43,20
+then actually published on the front
+
+410
+00:12:43,200 --> 00:12:44,870
+cover of Nature a couple of months
+
+411
+00:12:44,870 --> 00:12:46,130
+ago, which is the biggest science journal
+
+412
+00:12:46,130 --> 00:12:48,40
+in the world, and so if you're interested in reading
+
+413
+00:12:48,400 --> 00:12:49,840
+more about these details, you can check
+
+414
+00:12:49,840 --> 00:12:50,230
+it there.
+
+415
+00:12:51,80 --> 00:12:52,820
+  Now we're moving on to adding
+
+416
+00:12:52,820 --> 00:12:54,90
+things, capabilities and, like
+
+417
+00:12:54,90 --> 00:12:55,840
+concepts, and learning abstract
+
+418
+00:12:55,840 --> 00:12:57,660
+concepts, and long-term memory
+
+419
+00:12:58,470 --> 00:13:00,710
+  These are things that are inspired
+
+420
+00:13:00,710 --> 00:13:02,880
+by my work and other people's
+
+421
+00:13:02,880 --> 00:13:04,250
+work in neuroscience
+
+422
+00:13:04,440 --> 00:13:06,380
+and around mimicking
+
+423
+00:13:06,810 --> 00:13:08,280
+the workings of this part of the brain
+
+424
+00:13:08,280 --> 00:13:09,319
+called the hippocampus.
+
+425
+00:13:11,170 --> 00:13:13,349
+  Of course, we're not just building these algorithms
+
+426
+00:13:13,350 --> 00:13:15,90
+just to play Atari games
+
+427
+00:13:15,300 --> 00:13:16,689
+We're moving now towards 3D
+
+428
+00:13:16,690 --> 00:13:19,430
+games, Go, simulations
+
+429
+00:13:19,430 --> 00:13:20,790
+and then ultimately real robots
+
+430
+00:13:20,890 --> 00:13:21,550
+at some point,
+
+431
+00:13:22,390 --> 00:13:24,410
+  and more near-term, in terms of applications
+
+432
+00:13:24,410 --> 00:13:26,209
+we're using it to improve recommendation
+
+433
+00:13:26,210 --> 00:13:27,50
+systems like on YouTube
+
+434
+00:13:27,780 --> 00:13:30,180
+and also moving into predictive
+
+435
+00:13:30,180 --> 00:13:31,349
+healthcare applications.
+
+436
+00:13:33,960 --> 00:13:35,780
+  Now, I just want to end by coming back
+
+437
+00:13:35,780 --> 00:13:37,620
+to this, sort of, theme of Theory of Everything
+
+438
+00:13:37,940 --> 00:13:39,770
+So I think, you know, two of the biggest
+
+439
+00:13:39,770 --> 00:13:41,110
+challenges facing us
+
+440
+00:13:41,850 --> 00:13:43,190
+as a society are
+
+441
+00:13:43,420 --> 00:13:44,959
+information overload, just
+
+442
+00:13:44,960 --> 00:13:46,530
+the sense that there's so much
+
+443
+00:13:46,600 --> 00:13:47,990
+data around. You know, everyone
+
+444
+00:13:47,990 --> 00:13:49,360
+talks about big data, but the problem
+
+445
+00:13:49,560 --> 00:13:51,10
+is, what to do with it once you
+
+446
+00:13:51,100 --> 00:13:51,630
+have it all.
+
+447
+00:13:52,520 --> 00:13:54,540
+  I think loads of areas like genomics
+
+448
+00:13:54,660 --> 00:13:56,589
+and entertainment, you know
+
+449
+00:13:56,590 --> 00:13:58,290
+are all, sort of, suffering from this deluge
+
+450
+00:13:58,290 --> 00:13:59,69
+of data. 'How do we sift through
+
+451
+00:13:59,700 --> 00:14:01,10
+this data to find the insights in that
+
+452
+00:14:01,100 --> 00:14:03,60
+data?' Of course, personalisation
+
+453
+00:14:03,230 --> 00:14:04,90
+technologies are one of the technologies
+
+454
+00:14:04,900 --> 00:14:06,260
+that are trying to help us with that
+
+455
+00:14:06,480 --> 00:14:07,90
+but they don't work very well at the moment
+
+456
+00:14:08,90 --> 00:14:09,760
+partly because they're not very personalised
+
+457
+00:14:09,760 --> 00:14:11,240
+and they work by, sort of, averaging
+
+458
+00:14:11,240 --> 00:14:11,810
+the crowd.
+
+459
+00:14:12,710 --> 00:14:14,960
+  Secondly, there's the problem of system
+
+460
+00:14:14,960 --> 00:14:16,640
+complexity. You know, many of the systems
+
+461
+00:14:16,710 --> 00:14:18,70
+we would like to master as a society
+
+462
+00:14:18,700 --> 00:14:20,340
+like climate, disease, energy
+
+463
+00:14:20,700 --> 00:14:22,170
+economics, even physics
+
+464
+00:14:22,930 --> 00:14:24,420
+are getting so complex now
+
+465
+00:14:24,680 --> 00:14:26,10
+You know, it's difficult for even the
+
+466
+00:14:26,100 --> 00:14:27,760
+best and the smartest humans
+
+467
+00:14:27,920 --> 00:14:29,339
+to master it in their lifetimes
+
+468
+00:14:29,340 --> 00:14:31,10
+and still leave enough time for them to innovate
+
+469
+00:14:31,860 --> 00:14:33,660
+  So one of the reasons I work on AI
+
+470
+00:14:33,660 --> 00:14:35,189
+and why I think it's going to be one of the most important
+
+471
+00:14:35,190 --> 00:14:36,930
+technologies out there, is that solving
+
+472
+00:14:36,930 --> 00:14:38,880
+AI is potentially a, kind of, meta-solution
+
+473
+00:14:38,970 --> 00:14:40,650
+to all these other problems. We can
+
+474
+00:14:40,650 --> 00:14:42,280
+use it to help us solve all
+
+475
+00:14:42,280 --> 00:14:44,439
+of these other problems. The dream
+
+476
+00:14:44,440 --> 00:14:45,910
+for me, the thing I get most excited
+
+477
+00:14:45,910 --> 00:14:47,390
+about working on AI, is in the future
+
+478
+00:14:47,690 --> 00:14:49,260
+being able to make and create
+
+479
+00:14:49,290 --> 00:14:50,589
+AI scientists, or
+
+480
+00:14:50,760 --> 00:14:52,30
+AI assisted science, making
+
+481
+00:14:52,300 --> 00:14:54,650
+that possible, working in tandem
+
+482
+00:14:54,650 --> 00:14:55,930
+with human experts and human
+
+483
+00:14:55,930 --> 00:14:58,370
+scientists. Now, of course, there
+
+484
+00:14:58,370 --> 00:14:59,910
+has been a lot of news at the moment about
+
+485
+00:15:00,60 --> 00:15:01,750
+the ethics around AI, and
+
+486
+00:15:01,750 --> 00:15:03,560
+like with all new, powerful technologies
+
+487
+00:15:03,780 --> 00:15:05,319
+you know, it must be used ethically
+
+488
+00:15:05,320 --> 00:15:07,480
+and responsibly, and we're actively
+
+489
+00:15:07,480 --> 00:15:08,850
+researching and doing these things
+
+490
+00:15:08,850 --> 00:15:10,840
+and we have an ethics board that governs
+
+491
+00:15:10,840 --> 00:15:12,80
+the use of this technology. The technology
+
+492
+00:15:12,800 --> 00:15:14,310
+itself is neutral. It's always how
+
+493
+00:15:14,360 --> 00:15:15,820
+humans use this technology
+
+494
+00:15:15,930 --> 00:15:17,839
+that ends up deciding whether it's ethical
+
+495
+00:15:17,840 --> 00:15:18,220
+or not.
+
+496
+00:15:18,940 --> 00:15:21,370
+  Of course, human level AI is several
+
+497
+00:15:21,370 --> 00:15:22,780
+decades away, but we should start
+
+498
+00:15:22,780 --> 00:15:24,939
+the debate now. I just
+
+499
+00:15:24,940 --> 00:15:26,420
+want to end by just talking about-
+
+500
+00:15:26,480 --> 00:15:28,420
+we, sort of, joined forces with Google
+
+501
+00:15:28,650 --> 00:15:30,40
+early last year, and Google's
+
+502
+00:15:31,220 --> 00:15:32,680
+mission statement, of course, is to organised
+
+503
+00:15:32,680 --> 00:15:34,189
+the world's information, and make it universally
+
+504
+00:15:34,190 --> 00:15:35,130
+accessible and useful.
+
+505
+00:15:35,930 --> 00:15:37,579
+  One reason we decided to join forces with
+
+506
+00:15:37,650 --> 00:15:39,240
+Google was that we felt our mission
+
+507
+00:15:39,330 --> 00:15:40,870
+fitted very well with this mission
+
+508
+00:15:41,860 --> 00:15:43,460
+Another way of, sort of, describing
+
+509
+00:15:43,460 --> 00:15:45,310
+that mission is to think about empowering
+
+510
+00:15:45,310 --> 00:15:47,579
+people through knowledge. Another
+
+511
+00:15:47,650 --> 00:15:49,230
+way to think about this, kind of, AI
+
+512
+00:15:49,230 --> 00:15:50,580
+or artificial general intelligence
+
+513
+00:15:50,580 --> 00:15:52,520
+is that it's a process that automatically
+
+514
+00:15:52,520 --> 00:15:54,79
+converts unstructured
+
+515
+00:15:54,80 --> 00:15:56,10
+information into actionable
+
+516
+00:15:56,40 --> 00:15:56,589
+knowledge.
+
+517
+00:15:58,880 --> 00:16:00,710
+  So just to finish with a, sort of, slide
+
+518
+00:16:00,770 --> 00:16:01,930
+about the Theory of Everything.
+
+519
+00:16:02,670 --> 00:16:04,959
+  You know, of course, I'm a neuroscientist
+
+520
+00:16:04,960 --> 00:16:06,310
+as well as an AI researcher
+
+521
+00:16:06,700 --> 00:16:08,10
+and I think that by trying
+
+522
+00:16:08,100 --> 00:16:10,360
+to distil artificial intelligence
+
+523
+00:16:10,360 --> 00:16:12,10
+into an algorithmic construct
+
+524
+00:16:12,350 --> 00:16:13,890
+and comparing it to the human
+
+525
+00:16:13,890 --> 00:16:15,650
+mind, that might help us to unlock
+
+526
+00:16:15,650 --> 00:16:16,90
+some of the deepest mysteries of
+
+527
+00:16:16,900 --> 00:16:18,550
+the mind, like consciousness
+
+528
+00:16:18,550 --> 00:16:20,60
+creativity and even dreams
+
+529
+00:16:21,480 --> 00:16:23,240
+  Finally, I would say that, you
+
+530
+00:16:23,240 --> 00:16:24,570
+know, in order to find the Theory
+
+531
+00:16:24,570 --> 00:16:26,370
+of Everything, it might turn out
+
+532
+00:16:26,520 --> 00:16:27,960
+that we have to solve intelligence
+
+533
+00:16:27,960 --> 00:16:29,530
+first. Thanks for listening.
+
